@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rele)(type KiCad)(uri "$(KIPRJMOD)/rele.pretty")(options "")(descr ""))
+)
